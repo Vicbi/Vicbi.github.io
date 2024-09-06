@@ -11,7 +11,7 @@ nav_order: 4
 
 - **Institution:** Stanford University
 - **Role:** Instructor/Lecturer
-- **Duration:** 1/2024-- Present
+- **Duration:** 1/2024-- 5/2024
 - **Details:** This course on digital health is designed for both computer science students and faculty members who are interested in creating a digital platform that will directly impact healthcare or clinical research. Its goal is to give students the opportunity to apply their skills to real-world health technology development projects, while enabling School of Medicine faculty to leverage these talented individuals to help advance their technology concepts toward patients.
 - **[Course Link](https://biodesign.stanford.edu/programs/stanford-courses/building-for-digital-health.html)**
 
